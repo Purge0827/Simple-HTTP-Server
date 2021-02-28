@@ -6,7 +6,7 @@ Simple HTTP Server Script Made with JS (c)
 ## You need a vps RDP
 ## Put in the same file a server_data.php
 ## Example for a server_data.php:
-server|40.78.100.193
+server|your ip
 port|17091
 type|1
 #maint|Hellows GrowMagic php here
