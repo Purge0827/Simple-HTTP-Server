@@ -1,6 +1,6 @@
 # Simple-HTTP-Server
 Simple HTTP Server Script Made with JS (c)
-
+Credits: Swe
 
 ## Steps to use:
 ## You need a vps RDP
